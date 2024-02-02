@@ -1,0 +1,2 @@
+- task=train-augment
+- +augment=fastspeech2

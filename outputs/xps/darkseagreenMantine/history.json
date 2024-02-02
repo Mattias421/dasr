@@ -1,0 +1,590 @@
+[
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0006.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0006_stretch_0.wav",
+    "log_f0": 0.6164913564601078,
+    "mcd": 6.942236206097244
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0006.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0006_stretch_1.wav",
+    "log_f0": 0.6172296124248401,
+    "mcd": 7.048029058513479
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0006.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0006_time_mask.wav",
+    "log_f0": 0.8920807158394468,
+    "mcd": 7.297115804581073
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0006.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0006_freq_mask.wav",
+    "log_f0": 0.6643081835782623,
+    "mcd": 7.237392280891747
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0007.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0007_stretch_0.wav",
+    "log_f0": 0.9903562468263541,
+    "mcd": 7.565258218181975
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0007.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0007_stretch_1.wav",
+    "log_f0": 0.8481608651167187,
+    "mcd": 7.650839001403388
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0007.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0007_time_mask.wav",
+    "log_f0": 0.17301092438987936,
+    "mcd": 9.804835828713651
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0007.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0007_freq_mask.wav",
+    "log_f0": 1.0759659566016033,
+    "mcd": 7.89084656061104
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0008.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0008_stretch_0.wav",
+    "log_f0": 1.0316459017141983,
+    "mcd": 8.899241610531028
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0008.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0008_stretch_1.wav",
+    "log_f0": 1.0261697395713514,
+    "mcd": 8.942610864833515
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0008.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0008_time_mask.wav",
+    "log_f0": 1.0202368488394187,
+    "mcd": 9.32602884988471
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0008.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0008_freq_mask.wav",
+    "log_f0": 0.9335894105327835,
+    "mcd": 9.094681621861726
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0009.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0009_stretch_0.wav",
+    "log_f0": 0.5336880639006335,
+    "mcd": 6.490956982161442
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0009.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0009_stretch_1.wav",
+    "log_f0": 0.5646305798141938,
+    "mcd": 6.54491392602976
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0009.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0009_time_mask.wav",
+    "log_f0": 0.32437124241393567,
+    "mcd": 9.09111772595369
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0009.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0009_freq_mask.wav",
+    "log_f0": 0.3011590485135157,
+    "mcd": 6.733296538108765
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0010.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0010_stretch_0.wav",
+    "log_f0": 0.5297112737800117,
+    "mcd": 7.081459917410243
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0010.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0010_stretch_1.wav",
+    "log_f0": 0.5121877615820192,
+    "mcd": 7.245061089845856
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0010.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0010_time_mask.wav",
+    "log_f0": 0.3591454069092782,
+    "mcd": 7.442147052249224
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0010.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0010_freq_mask.wav",
+    "log_f0": 0.5887195850291957,
+    "mcd": 7.2012875222186485
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0011.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0011_stretch_0.wav",
+    "log_f0": 1.0576701037433525,
+    "mcd": 8.921299561338333
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0011.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0011_stretch_1.wav",
+    "log_f0": 1.0521629437032107,
+    "mcd": 9.242300003988722
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0011.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0011_time_mask.wav",
+    "log_f0": 0.9081076580626264,
+    "mcd": 8.23394868212721
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0011.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0011_freq_mask.wav",
+    "log_f0": 1.005686076723224,
+    "mcd": 9.35140347298694
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0012.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0012_stretch_0.wav",
+    "log_f0": 0.617919783733813,
+    "mcd": 6.349767188394445
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0012.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0012_stretch_1.wav",
+    "log_f0": 0.7468710213949324,
+    "mcd": 6.447084410007762
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0012.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0012_time_mask.wav",
+    "log_f0": 0.6857259594882741,
+    "mcd": 6.785101844370375
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0012.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0012_freq_mask.wav",
+    "log_f0": 0.6460069638826776,
+    "mcd": 6.689916561921693
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0013.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0013_stretch_0.wav",
+    "log_f0": 0.8705515330080247,
+    "mcd": 7.326158753108751
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0013.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0013_stretch_1.wav",
+    "log_f0": 0.9428118597228822,
+    "mcd": 7.314572882155688
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0013.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0013_time_mask.wav",
+    "log_f0": 1.1023119802085215,
+    "mcd": 6.565976795419461
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0013.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0013_freq_mask.wav",
+    "log_f0": 0.9528665982869438,
+    "mcd": 7.466904786138719
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0014.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0014_stretch_0.wav",
+    "log_f0": 1.001863385884017,
+    "mcd": 9.973155804130332
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0014.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0014_stretch_1.wav",
+    "log_f0": 0.9458641015736576,
+    "mcd": 10.018052236269716
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0014.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0014_time_mask.wav",
+    "log_f0": 0.9758413822747846,
+    "mcd": 10.16171448860343
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0014.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0014_freq_mask.wav",
+    "log_f0": 0.9362934251894248,
+    "mcd": 10.858479549169344
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0015.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0015_stretch_0.wav",
+    "log_f0": 0.7156860031503687,
+    "mcd": 7.5634241448700035
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0015.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0015_stretch_1.wav",
+    "log_f0": 0.8444995888493568,
+    "mcd": 7.606082245422065
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0015.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0015_time_mask.wav",
+    "log_f0": 0.7007078324943394,
+    "mcd": 7.0610838783011225
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0015.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0015_freq_mask.wav",
+    "log_f0": 0.8518415689155296,
+    "mcd": 7.695021713138243
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0016.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0016_stretch_0.wav",
+    "log_f0": 0.9321995018747012,
+    "mcd": 7.982745141686864
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0016.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0016_stretch_1.wav",
+    "log_f0": 0.9308325269684109,
+    "mcd": 8.010371277914178
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0016.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0016_time_mask.wav",
+    "log_f0": 1.177415348098502,
+    "mcd": 8.06617316950015
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0016.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0016_freq_mask.wav",
+    "log_f0": 1.0640780871067417,
+    "mcd": 8.070203027056403
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0017.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0017_stretch_0.wav",
+    "log_f0": 0.8332992610036514,
+    "mcd": 8.068196303905186
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0017.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0017_stretch_1.wav",
+    "log_f0": 0.9144212619393246,
+    "mcd": 7.995284597051023
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0017.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0017_time_mask.wav",
+    "log_f0": 0.9400758325353207,
+    "mcd": 8.111216829219932
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0017.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0017_freq_mask.wav",
+    "log_f0": 0.9452321136619906,
+    "mcd": 8.109725392707036
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0018.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0018_stretch_0.wav",
+    "log_f0": 1.091979169655937,
+    "mcd": 8.426101166234746
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0018.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0018_stretch_1.wav",
+    "log_f0": 1.1115595035551442,
+    "mcd": 8.444440086832078
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0018.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0018_time_mask.wav",
+    "log_f0": 0.9937591522308082,
+    "mcd": 8.332198493054937
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0018.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0018_freq_mask.wav",
+    "log_f0": 1.0304457321492952,
+    "mcd": 8.603331533770655
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0019.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0019_stretch_0.wav",
+    "log_f0": 1.091898044884317,
+    "mcd": 7.242747357332724
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0019.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0019_stretch_1.wav",
+    "log_f0": 0.8070971408311213,
+    "mcd": 7.316449039220059
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0019.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0019_time_mask.wav",
+    "log_f0": 0.33981068791458,
+    "mcd": 6.56096757414377
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0019.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0019_freq_mask.wav",
+    "log_f0": 1.0170604599628366,
+    "mcd": 7.359425221835321
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0020.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0020_stretch_0.wav",
+    "log_f0": 1.0759831316613695,
+    "mcd": 10.536288597200896
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0020.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0020_stretch_1.wav",
+    "log_f0": 1.0864491821268267,
+    "mcd": 10.508110880134401
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0020.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0020_time_mask.wav",
+    "log_f0": 1.1048940776614682,
+    "mcd": 10.938126399175127
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0020.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0020_freq_mask.wav",
+    "log_f0": 1.1051272569477664,
+    "mcd": 10.726781929279428
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0021.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0021_stretch_0.wav",
+    "log_f0": 0.462734505227979,
+    "mcd": 7.107074317296507
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0021.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0021_stretch_1.wav",
+    "log_f0": 0.4567534066173149,
+    "mcd": 7.202149076642762
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0021.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0021_time_mask.wav",
+    "log_f0": 0.49907961587435634,
+    "mcd": 7.7695711984184
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0021.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0021_freq_mask.wav",
+    "log_f0": 0.4702200969634482,
+    "mcd": 7.273688930538073
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0022.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0022_stretch_0.wav",
+    "log_f0": 1.0403627326835345,
+    "mcd": 9.878075546787477
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0022.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0022_stretch_1.wav",
+    "log_f0": 0.9187433723544731,
+    "mcd": 9.869524886569199
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0022.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0022_time_mask.wav",
+    "log_f0": 1.056352098604377,
+    "mcd": 10.047597292571151
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0022.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0022_freq_mask.wav",
+    "log_f0": 1.0803103061026607,
+    "mcd": 10.218443371258992
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0023.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0023_stretch_0.wav",
+    "log_f0": 0.9967996295387809,
+    "mcd": 8.667114984980437
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0023.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0023_stretch_1.wav",
+    "log_f0": 0.9373271551043078,
+    "mcd": 8.530071665546687
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0023.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0023_time_mask.wav",
+    "log_f0": 0.9723128398935251,
+    "mcd": 8.864384719302619
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0023.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0023_freq_mask.wav",
+    "log_f0": 0.9739004504506722,
+    "mcd": 8.85635149613566
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0024.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0024_stretch_0.wav",
+    "log_f0": 0.9171156535776097,
+    "mcd": 7.117952534985804
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0024.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0024_stretch_1.wav",
+    "log_f0": 0.7571136737870232,
+    "mcd": 7.232693193564694
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0024.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0024_time_mask.wav",
+    "log_f0": 0.9427108659820002,
+    "mcd": 7.279450817096825
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0024.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0024_freq_mask.wav",
+    "log_f0": 0.8795686934695995,
+    "mcd": 7.7640524639532895
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0025.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0025_stretch_0.wav",
+    "log_f0": 0.541887354000621,
+    "mcd": 6.231052269353301
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0025.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0025_stretch_1.wav",
+    "log_f0": 0.5387770411133319,
+    "mcd": 6.4160076548006195
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0025.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0025_time_mask.wav",
+    "log_f0": 0.6045756612854162,
+    "mcd": 6.353564651588395
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0025.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0025_freq_mask.wav",
+    "log_f0": 0.5323438551674895,
+    "mcd": 6.50364327907296
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0026.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0026_stretch_0.wav",
+    "log_f0": 0.6571196544684702,
+    "mcd": 7.831092844755239
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0026.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0026_stretch_1.wav",
+    "log_f0": 0.6159857452649301,
+    "mcd": 7.75218167950852
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0026.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0026_time_mask.wav",
+    "log_f0": 0.6102511028600707,
+    "mcd": 8.241275236362782
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0026.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0026_freq_mask.wav",
+    "log_f0": 0.7424601626728513,
+    "mcd": 8.293704172660346
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0027.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0027_stretch_0.wav",
+    "log_f0": 0.9124440137729851,
+    "mcd": 9.27046067448045
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0027.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0027_stretch_1.wav",
+    "log_f0": 0.8692891483867448,
+    "mcd": 9.279325394145653
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0027.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0027_time_mask.wav",
+    "log_f0": 0.8791755265747346,
+    "mcd": 9.814277701714188
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0027.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0027_freq_mask.wav",
+    "log_f0": 0.9057415442394553,
+    "mcd": 9.518544756297322
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0028.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0028_stretch_0.wav",
+    "log_f0": 0.9433902126950955,
+    "mcd": 10.217299999921842
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0028.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0028_stretch_1.wav",
+    "log_f0": 0.9727911310983305,
+    "mcd": 10.288071658816014
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0028.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0028_time_mask.wav",
+    "log_f0": 0.9130986175908953,
+    "mcd": 11.044744924824439
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0028.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0028_freq_mask.wav",
+    "log_f0": 0.9564598250981564,
+    "mcd": 10.437967672962909
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0029.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0029_stretch_0.wav",
+    "log_f0": 0.573547430512496,
+    "mcd": 6.575327817739432
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0029.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0029_stretch_1.wav",
+    "log_f0": 0.6059994135849888,
+    "mcd": 6.690163148455204
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0029.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0029_time_mask.wav",
+    "log_f0": 0.34622488149231645,
+    "mcd": 8.05104102670525
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0029.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0029_freq_mask.wav",
+    "log_f0": 0.5999478452767557,
+    "mcd": 6.650062880116577
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0030.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0030_stretch_0.wav",
+    "log_f0": 0.8426138793338781,
+    "mcd": 10.254419805874521
+  },
+  {
+    "source": "/fastdata/acq22mc/data/dysarthria/Torgo_use/F01/Session1/wav_arrayMic/0030.wav",
+    "target": "/mnt/fastdata/acq22mc/exp/dasr/outputs/xps/darkseagreenMantine/synth_data/wav_arrayMic/0030_stretch_1.wav",
+    "log_f0": 0.8352322425665955,
+    "mcd": 10.235539877526753
+  }
+]

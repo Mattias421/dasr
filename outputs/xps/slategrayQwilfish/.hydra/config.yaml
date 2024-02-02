@@ -1,0 +1,22 @@
+task: train-augment
+slurm:
+  time: 4320
+  partition: dcs-gpu
+  account: dcs-res
+  mem_per_gpu: 64
+  gpus: 1
+  setup:
+  - module load SoX/14.4.2-GCC-8.3.0
+  - module load Anaconda3/5.3.0
+  - source activate speech-diff
+  srun_args:
+  - --export=ALL
+  cpus_per_task: 1
+  cpus_per_gpu: 1
+dora:
+  dir: outputs
+augment:
+  fs2_root: /fastdata/acq22mc/exp/dasr/dasr/tts/speechbrain/recipes/LJSpeech/TTS/fastspeech2/
+data:
+  manifest: /fastdata/acq22mc/exp/dasr/manifest/TORGO.csv
+  root: /fastdata/acq22mc/data/dysarthria/Torgo_use

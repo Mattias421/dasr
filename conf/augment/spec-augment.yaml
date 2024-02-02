@@ -1,0 +1,10 @@
+name: spec-augment
+
+n_fft: 400
+win_len: 
+hop_len:
+power: 2.0
+
+time_stretch_rates: [0.9, 1.1]
+time_mask_param: 80
+freq_mask_param: 80

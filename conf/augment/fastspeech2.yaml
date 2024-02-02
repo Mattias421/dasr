@@ -1,0 +1,3 @@
+name: fastspeech2
+fs2_root: /fastdata/acq22mc/exp/dasr/dasr/tts/speechbrain/recipes/LJSpeech/TTS/fastspeech2/
+sb_root: /fastdata/acq22mc/exp/dasr/dasr/tts/speechbrain/
