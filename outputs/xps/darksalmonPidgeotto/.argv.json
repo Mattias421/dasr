@@ -1,1 +1,1 @@
-["task=\"train_augment\"", "augment=fastspeech2"]
+["task=train_augment", "augment=fastspeech2"]
