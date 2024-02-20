@@ -7,7 +7,10 @@ Dysarthric ASR with GradTTS data augmentation and Whisper finetuning
 
 ### FastSpeech2
 
-Probably won't implement because it seems very specific to LibriTTS e.g. need .TEXT files and alignments.
+In progress
+- [ ] prepare_align.py
+- [ ] preprocess
+- [ ] train
 
 ### Duta-VC/Aty-TTS
 
