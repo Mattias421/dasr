@@ -2,6 +2,14 @@ from dora import get_xp, XP
 
 from .tts.FastSpeech2.preprocessor.preprocessor import Preprocessor
 from .tts.FastSpeech2.prepare_align import main as prepare_align 
+from .tts.FastSpeech2.train import main as train
+from .tts.FastSpeech2.synthesize import synthesize
+from .tts.FastSpeech2.utils.model import get_model, get_vocoder
+
+from pathlib import Path
+import torch
+
+from types import SimpleNamespace
 
 import logging
 logger = logging.getLogger()
@@ -27,6 +35,31 @@ def make_preprocess_cfg(cfg, xp):
 
     return cfg.augment.preprocess
 
+
+def debug(cfg):
+    xp = get_xp()
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    model_cfg = cfg.augment.fastspeech2.model
+    train_cfg = cfg.augment.fastspeech2.train
+    preprocess_cfg = cfg.augment.fastspeech2.preprocess
+
+    xps_path = Path('/fastdata/acq22mc/exp/dasr/outputs/xps/')
+    preprocess_path = xps_path / cfg.preprocess_xp
+    preprocess_cfg.path.raw_path = preprocess_path / 'raw_data'
+    preprocess_cfg.path.preprocessed_path = preprocess_path / 'preprocessed_data'
+
+    train_xp = cfg.train_xp
+    train_xp_path = xps_path / train_xp
+
+    train_cfg.path.ckpt_path = train_xp_path / 'ckpt'
+    train_cfg.path.log_path = train_xp_path / 'log'
+    train_cfg.path.result_path = train_xp_path / 'result'
+
+    configs = (preprocess_cfg, model_cfg, train_cfg)
+    model = get_model(200000, configs, device, train=False)
+
+
+
 def train_fastspeech2(cfg):
 
     xp = get_xp()
@@ -42,9 +75,23 @@ def train_fastspeech2(cfg):
 
     xp_pre_proc = XP(dora=xp.dora, cfg=cfg_preproc, argv=args_preproc, delta=delta_preproc, sig=None) 
     logger.info(f'Getting preprocessing data from {xp_pre_proc.sig}')
-    preproc_cfg = make_preprocess_cfg(xp.cfg, xp)
+    preproc_cfg = make_preprocess_cfg(xp.cfg, xp_pre_proc)
 
     print(preproc_cfg)
+
+    model_cfg = cfg.augment.fastspeech2.model
+    train_cfg = cfg.augment.fastspeech2.train
+    train_cfg.path.ckpt_path = xp.folder / 'ckpt'
+    train_cfg.path.log_path = xp.folder / 'log'
+    train_cfg.path.result_path = xp.folder / 'result'
+
+    for path in train_cfg.path:
+        check_dir(train_cfg.path[path])
+
+    args = SimpleNamespace(restore_step=0)
+    configs = (preproc_cfg, model_cfg, train_cfg)
+
+    train(args, configs)
 
 
     return 'In progress'
@@ -71,6 +118,10 @@ def prepare_fastspeech2(cfg):
         logger.info('Prepare complete')
     else:
         logger.info(f'Found prepared data at {raw_path}')
+        # logger.info(f'Prepare align to {cfg.augment.preprocess.path.raw_path}')
+        # logger.info('Warning, assume corpus contains text grids')
+        # prepare_align(cfg) 
+        # logger.info('Prepare complete')
 
     do_preprocess = check_dir(preprocessed_path)
 
@@ -88,3 +139,5 @@ def prepare_fastspeech2(cfg):
         preprocessor = Preprocessor(cfg.augment.preprocess)
         preprocessor.build_from_path()
         logger.info('Preprocess complete')
+
+

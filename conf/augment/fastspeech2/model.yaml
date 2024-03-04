@@ -36,3 +36,4 @@ model:
   vocoder:
     model: "HiFi-GAN" # support 'HiFi-GAN', 'MelGAN'
     speaker: "universal" # support  'LJSpeech', 'universal'
+    config_path: "/fastdata/acq22mc/exp/dasr/dasr/tts/FastSpeech2/hifigan" # hardcoded hifigan config path

@@ -1,10 +1,12 @@
 from dora import get_xp, hydra_main
 from .specaugment import spec_augment_data
-from .fastspeech2 import train_fastspeech2, prepare_fastspeech2
+from .fastspeech2 import train_fastspeech2, prepare_fastspeech2, debug
 # from .dutavc import prepare_dutavc
 
 import logging
 logger = logging.getLogger()
+
+    
 
 def augment(cfg):
     if cfg.augment.name == 'spec-augment':
@@ -29,3 +31,5 @@ def main(cfg):
         train_augment(cfg)
     elif cfg.task == 'prepare_data':
         prepare_data(cfg)
+    elif cfg.task == 'debug':
+        debug(cfg)

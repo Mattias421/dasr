@@ -44,6 +44,7 @@ augment:
       vocoder:
         model: HiFi-GAN
         speaker: universal
+        config_path: /fastdata/acq22mc/exp/dasr/dasr/tts/FastSpeech2/hifigan
     preprocess:
       dataset: null
       path:
@@ -99,7 +100,7 @@ augment:
         log_step: 100
         synth_step: 1000
         val_step: 1000
-        save_step: 100000
+        save_step: 10000
   name: fastspeech2
 data:
   name: torgo
